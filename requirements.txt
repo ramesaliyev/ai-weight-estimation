@@ -68,6 +68,7 @@ scipy==1.8.0
 Send2Trash==1.8.0
 six==1.16.0
 sklearn==0.0
+SKompiler==0.6
 sniffio==1.2.0
 soupsieve==2.3.2.post1
 stack-data==0.2.0

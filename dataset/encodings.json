@@ -1,0 +1,116 @@
+{
+  "columns": {
+    "en": {
+      "Age": "age",
+      "Height (cm)": "height",
+      "Weight (kg)": "weight",
+      "Gender": "gender",
+      "Do you smoke?": "smoking",
+      "Alcohol Consumption": "drinking",
+      "Exercise Frequency": "exercise",
+      "Current Marital Status": "married",
+      "Do you have any children?": "children",
+      "Are you currently a student?": "student",
+      "Employment": "employed",
+      "How many years have you been working? (if employed)": "employement_duration"
+    },
+    "tr": {
+      "Yaş": "age",
+      "Boy (cm)": "height",
+      "Kilo (kg)": "weight",
+      "Cinsiyet": "gender",
+      "Sigara Kullanımı": "smoking",
+      "Alkol Kullanımı": "drinking",
+      "Spor Sıklığı": "exercise",
+      "Güncel Medeni Hal": "married",
+      "Çocuk var mı?": "children",
+      "Öğrencilik Durumu": "student",
+      "İş Durumu": "employed",
+      "Kaç yıldır çalışıyorsunuz? (eğer çalışıyorsanız)": "employement_duration"
+    }
+  },
+  "values": {
+    "en": {
+      "gender": {
+        "Male": 1,
+        "Female": 0
+      },
+      "smoking": {
+        "No": 0,
+        "Yes": 1
+      },
+      "drinking": {
+        "Never": 0,
+        "Very rare": 1,
+        "Once or twice a month": 2,
+        "Once or twice a week": 3,
+        "Every day": 4
+      },
+      "exercise": {
+        "Never": 0,
+        "1-2 times a week": 1,
+        "3-4 times a week": 2,
+        "At least 5 times a week": 3
+      },
+      "married": {
+        "Single": 0,
+        "Married": 1
+      },
+      "children": {
+        "No": 0,
+        "Yes": 1
+      },
+      "student": {
+        "No": 0,
+        "Yes": 1
+      },
+      "employed": {
+        "Unemployed": 0,
+        "Employed, usually working remotely": 1,
+        "Employed, usually working on-site": 2
+      }
+    },
+    "tr": {
+      "gender": {
+        "Erkek": 1,
+        "Kadın": 0
+      },
+      "smoking": {
+        "Yok": 0,
+        "Var": 1
+      },
+      "drinking": {
+        "Yok": 0,
+        "Çok nadir içerim": 1,
+        "Her ay içerim": 2,
+        "Her hafta içerim": 3,
+        "Her gün içerim": 4
+      },
+      "exercise": {
+        "Spor yapmıyorum": 0,
+        "Haftada 1-2 gün spor yaparım": 1,
+        "Haftada 3-4 gün spor yaparım": 2,
+        "Haftada en az 5 gün spor yaparım": 3
+      },
+      "married": {
+        "Bekar": 0,
+        "Evli": 1
+      },
+      "children": {
+        "Yok": 0,
+        "Var": 1
+      },
+      "student": {
+        "Öğrenci değilim": 0,
+        "Öğrenciyim": 1
+      },
+      "employed": {
+        "Çalışmıyorum": 0,
+        "Uzaktan çalışıyorum genelde iş yerine gitmiyorum": 1,
+        "Genelde iş yerine giderek çalışıyorum": 2,
+        "Uzaktan çalışıyorum genelde ofise gitmiyorum": 1,
+        "Genelde ofise giderek çalışıyorum": 2
+      }
+    }
+  }
+}

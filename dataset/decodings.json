@@ -1,0 +1,42 @@
+{
+  "values": {
+    "gender": {
+      "1": "Male",
+      "0": "Female"
+    },
+    "smoking": {
+      "0": "No",
+      "1": "Yes"
+    },
+    "drinking": {
+      "0": "Never",
+      "1": "Rare",
+      "2": "monthly",
+      "3": "weekly",
+      "4": "daily"
+    },
+    "exercise": {
+      "0": "Never",
+      "1": "1-2/week",
+      "2": "3-4/week",
+      "3": "5+/week"
+    },
+    "married": {
+      "0": "No",
+      "1": "Yes"
+    },
+    "children": {
+      "0": "No",
+      "1": "Yes"
+    },
+    "student": {
+      "0": "No",
+      "1": "Yes"
+    },
+    "employed": {
+      "0": "Unemployed",
+      "1": "Remote",
+      "2": "On-site"
+    }
+  }
+}

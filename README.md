@@ -1,4 +1,4 @@
-# Jupyter Template
+# AI Weight Estimation
 
 ## Python Env Setup
 
